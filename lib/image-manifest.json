@@ -1,0 +1,172 @@
+{
+ "/images/baked-trays.jpg": {
+  "w": 900,
+  "h": 1600,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   900
+  ],
+  "base": "/images/_opt/baked-trays.d0bdbb8c4b",
+  "stamp": "d0bdbb8c4b"
+ },
+ "/images/kera3ine-chickpeas.jpg": {
+  "w": 900,
+  "h": 1600,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   900
+  ],
+  "base": "/images/_opt/kera3ine-chickpeas.448f099f4c",
+  "stamp": "448f099f4c"
+ },
+ "/images/kofta-tagine-spread.jpg": {
+  "w": 941,
+  "h": 1254,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   941
+  ],
+  "base": "/images/_opt/kofta-tagine-spread.c48f65b6b5",
+  "stamp": "c48f65b6b5"
+ },
+ "/images/logo.png": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/logo.fb80fc8b53",
+  "stamp": "fb80fc8b53"
+ },
+ "/images/moroccan-bread.jpg": {
+  "w": 941,
+  "h": 1254,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   941
+  ],
+  "base": "/images/_opt/moroccan-bread.dccd458def",
+  "stamp": "dccd458def"
+ },
+ "/images/moroccan-tray.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/moroccan-tray.d6187463e1",
+  "stamp": "d6187463e1"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.3b156c0f2a",
+  "stamp": "3b156c0f2a"
+ },
+ "/images/pastilla-almonds.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/pastilla-almonds.736cb9ef5d",
+  "stamp": "736cb9ef5d"
+ },
+ "/images/pastilla-golden.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/pastilla-golden.b0827c1903",
+  "stamp": "b0827c1903"
+ },
+ "/images/pastilla-party.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/pastilla-party.977186e0e8",
+  "stamp": "977186e0e8"
+ },
+ "/images/stews.jpg": {
+  "w": 900,
+  "h": 1600,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   900
+  ],
+  "base": "/images/_opt/stews.f0551b8fc1",
+  "stamp": "f0551b8fc1"
+ }
+}
